@@ -13,9 +13,6 @@ export default function Home() {
       
       
       <HeroSection />
-      <OurProduct /> 
-      <FeaturedProducts />
-      <ProductCard />
     </div>
   );
 }
